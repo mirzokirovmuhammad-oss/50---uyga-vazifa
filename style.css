@@ -1,0 +1,56 @@
+.ota {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 50px;
+}
+
+.card {
+    width: 250px;
+    height: 380px;
+    background-color: yellow;
+    border-radius: 10px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.card-img {
+    width: 100px;
+    height: 107px;
+    margin-left: 60px;
+}
+.card-name{
+    margin: auto;
+}
+.card-type{
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 100px;
+    height: 30px;
+    background-color: #C4E4FF;
+    border: none;
+    text-align: center;
+}
+.card-count{
+    margin: auto;
+}
+.card-weight{
+    margin: auto;
+}
+.card-weaknesses{
+    margin: auto;
+    color: #80007C;
+}
+.img{
+    display: flex;
+    margin: auto;
+}
+.elements{
+    margin: auto;
+    padding-left: 100px;
+    margin-top: 25px;
+}
